@@ -1,0 +1,34 @@
+#container {
+    width:80%;
+    padding:30% 10%;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items:center;
+}
+
+.vlist {
+    width:100%;
+    height:100%;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items:center;
+}
+
+.hlist {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:10%;
+}
+
+.item {
+    border: 1px black solid;
+    padding:10px;
+}
+
+.social {
+    border: 1px black solid;
+    padding:10px;
+}
